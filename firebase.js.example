@@ -1,0 +1,9 @@
+firebase.initializeApp({
+  apiKey: "YOUR-API-KEY",
+  authDomain: "PROJECT-ID.firebaseapp.com",
+  databaseURL: "https://PROJECT-ID.firebaseio.com",
+  projectId: "PROJECT-ID",
+  storageBucket: "PROJECT-ID.appspot.com",
+  messagingSenderId: "MESSAGING-SENDER-ID"
+});
+const db = firebase.database();
