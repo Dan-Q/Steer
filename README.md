@@ -2,7 +2,7 @@
 
 Experimental JS canvas game.
 
-![GIF of demo video](https://j.gifs.com/oYoE43.gif)
+![GIF of demo video](https://github.com/Dan-Q/Steer/blob/master/steer-demo.gif?raw=true)
 
 ## Configuration
 
