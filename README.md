@@ -2,6 +2,8 @@
 
 Experimental JS canvas game.
 
+![GIF of demo video](https://j.gifs.com/oYoE43.gif)
+
 ## Configuration
 
 You will need a [Firebase](https://firebase.google.com/) account and an app set up to connect this too. Copy
