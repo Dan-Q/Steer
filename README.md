@@ -1,6 +1,6 @@
 # Steer!
 
-Experimental JS canvas game.
+Experimental JS canvas game using a Websocket connection to a mobile phone as a controller.
 
 ![GIF of demo video](https://github.com/Dan-Q/Steer/blob/master/steer-demo.gif?raw=true)
 
