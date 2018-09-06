@@ -19,3 +19,7 @@ gets and the more-aggressive the corners become.
 
 There's a lot of hacky code here. It's not been tested on anything other than a handful of screen sizes and
 only on one mobile browser. ES6 variable/constant definitions are used.
+
+## Further reading
+
+Blog post: https://danq.me/2017/04/28/steer/
